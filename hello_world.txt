@@ -1,1 +1,1 @@
-This thing is making mw say "Hello Odin!"
+"Hello Odin!"
